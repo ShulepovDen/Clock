@@ -12,7 +12,7 @@
 	padding-top: 5%;
 }
 
-#hr, #min, #sec {
+span.time {
 	background: #474646;
 	padding: 10px;
 	color: white;
